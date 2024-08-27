@@ -36,16 +36,7 @@ The AreaRegen plugin comes with a `config.yml` file that allows you to configure
 ### `delay`: The time in ticks before the task starts.
 ### `regions`: A list of WorldGuard regions where the regeneration should be active.
 
-## License
-
-The AreaRegen plugin is released under the [MIT License](https://github.com/Mardssss/AreaRegen/blob/master/LICENSE).
-
 ## Support
 
-If you need help with the AreaRegen plugin, please open an issue
+If you find any bug in the AreaRegen plugin, please open an issue
 [![GitHub Issues](https://img.shields.io/github/issues/Mardssss/AreaRegen.svg)](https://github.com/Mardssss/AreaRegen/issues).
-
-
-## Customization
-
-If you need a custom plugin or want to customize this plugin to fit your specific needs, please contact me on Discord at `mard2364`. I'd be happy to help you with your project and provide a quote for the work.
